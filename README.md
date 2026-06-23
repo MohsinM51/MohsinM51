@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**MohsinM51/MohsinM51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Mohsin</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Applied+AI;Cybersecurity;Building+things&font=Fira+Code&size=18&pause=1200&color=8B8B8B&center=true&vCenter=true&width=320&height=36" alt="typing"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-2b2b2b?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-2b2b2b?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-2b2b2b?style=flat-square&logo=linux&logoColor=white"/>
+</p>
